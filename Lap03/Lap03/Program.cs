@@ -1,5 +1,11 @@
 ﻿using System.Runtime.Intrinsics.Arm;
-
+/*
+ * Student ID : 1690704141
+ * Name       : จตุพล ใสยอด
+ * Section    : 129B
+ * No.        : N/A
+ * Course     : GI113 Computer Programming (GI)
+ */
 namespace Lap03
 {
     internal class Program
